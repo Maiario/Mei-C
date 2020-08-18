@@ -56,7 +56,10 @@
 
 <a href="https://www.wattpad.com/user/Maiario"> follow me also on my wattpad account, I've been writing stories in here since I got bored with my quarantine life cycle, so I hope that you'll check it! </a>
 
-<a href="<iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/229140576" ></iframe> </a>
+<iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/229140576" ></iframe> 
+
+<p> Brooooooooo, I checked this out in my facebook, and aaaaaaa I like how they also included the prologue of the story, that's so fucking cool bro! </p> 
+<p> anyways, this is BL story, and it's 18+ only, It has a lot of grammatical errors but f it, I'm still new when it comes to writing and my english words or tpying is not that that really perfect, but I'm trying to enchance it. T_T </p> 
 
 
 
