@@ -14,13 +14,13 @@
 <ul> 
 
 
-    <li> <p> <strong> Hereeee's The link </strong>  <a href= "https://www.youtube.com/channel/UC8HhEfeMgdFv0eew-7ptRRQ?view_as=subscriber"> My youtube channel! </a> </p> </li>
+    <li>  <a href= "https://www.youtube.com/channel/UC8HhEfeMgdFv0eew-7ptRRQ?view_as=subscriber"> My youtube channel! </a>  </li>
     
-<li>  <p> <strong> anotherrr linkkk </strong>  < a href = "https://twitter.com/sobercaptain"> let's follow each other in my twitter account </a> </p> </li>
+<li>  <a href="https://twitter.com/sobercaptain"> let's follow each other in my twitter account </a> </li>
 
- <li> <p> <strong> the 3rd link </strong> <a href = "https://www.instagram.com/sobercaptain/"> follow me too on instagram! </a> </p> </li>
+ <li>   <a href = "https://www.instagram.com/sobercaptain/"> follow me too on instagram! </a> </li>
 
-<li> <a href="https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a> </p> </li>
+<li> <a href="https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a> </li>
 
 </ul>
 
