@@ -4,6 +4,9 @@
     <style>
         
         h2{font-family:monospace;}
+        
+        p{font-family:monospace;
+        font-style:italic;}
       
       
       </style>
@@ -45,7 +48,9 @@
 <p> and also, I was wondering about "style" on html, like can I used it here also? but I already put a theme on my website? I just want to use the font, like monospace, but nothing will happens if I won't try, so let's see. </p> 
 
 
-<h2> I'll change the font of this one, it's "h2" </h2>
+<h2> I'll change the font of this one, it's "h2" <--- </h2>
+
+<p> It did worked! hahaha I couldn't see the changes in my "preview" so I thought that It didn't worked, yey! I'll change the font and size of all the words in here to monospace! :) </p>
 
 
 
