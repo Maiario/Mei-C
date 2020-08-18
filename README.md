@@ -58,7 +58,7 @@
 
 <p> aight! the changes have been completed! I've change the font style into monospace and make a bit italic, the font size is still the same, andddd anyways, </p>
 
-<a href="https://www.wattpad.com/user/Maiario"> follow me also on my wattpad account, I've been writing stories in here since I got bored with my quarantine life cycle, so I hope that you'll check it! </a>
+<a href="https://www.wattpad.com/user/Maiario"> follow me also on my wattpad account, I've been writing stories in here since I got bored with my quarantine life cycle, so I hope that you'll check it out! </a>
 
 <iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/229140576" ></iframe> 
 
