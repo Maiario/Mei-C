@@ -11,10 +11,15 @@
 <p> since this is experimentation website, I decided to put my youtube video content in here and my other social media accounts , since I don't know what to write </p>
 
 
-<a href= "https://www.youtube.com/channel/UC8HhEfeMgdFv0eew-7ptRRQ?view_as=subscriber"> My youtube channel! </a>
-< a href = "https://twitter.com/sobercaptain"> let's follow each other in my twitter account </a>
-<a href = "https://www.instagram.com/sobercaptain/"> follow me too on instagram! </a>
-< a href= "https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a>
+<ul> 
+
+
+    <li> The link  <a href= "https://www.youtube.com/channel/UC8HhEfeMgdFv0eew-7ptRRQ?view_as=subscriber"> My youtube channel! </a> </li>
+<li>     < a href = "https://twitter.com/sobercaptain"> let's follow each other in my twitter account </a> </li>
+ <li>  <a href = "https://www.instagram.com/sobercaptain/"> follow me too on instagram! </a>  </li>
+<li>  < a href= "https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a> </li>
+
+</ul>
 
 <img src="https://i.pinimg.com/originals/b0/79/4b/b0794b5e49e1cb5a1d1d7e3f71c0aa59.gif"> 
 
