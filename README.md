@@ -12,6 +12,14 @@
 
 
 <a href= "https://www.youtube.com/channel/UC8HhEfeMgdFv0eew-7ptRRQ?view_as=subscriber"> My youtube channel! </a>
+< a href = "https://twitter.com/sobercaptain"> let's follow each other in my twitter account </a>
+<a href = "https://www.instagram.com/sobercaptain/"> follow me too on instagram! </a>
+< a href= "https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a>
+
+<img src="https://i.pinimg.com/originals/b0/79/4b/b0794b5e49e1cb5a1d1d7e3f71c0aa59.gif"> 
+
+<p> anyways I got tag on this post by my cousins in facebook, it's a book pdf with a google drive link, ema just drop the link here so I won't lose it </p>
+<a href= "https://drive.google.com/drive/folders/144In4pIn9kZ3qBkwSR6Z4KKIR9N8VZTF?fbclid=IwAR2bmd6tbUpBh8Sy7Po_tK-xgZKXKyemyEivml8TgoWsJXw-Kv-GmMl2Vgk"> Book Pdf </a> 
 
 
 
