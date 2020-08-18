@@ -19,8 +19,8 @@
 <li>  <p> <strong> anotherrr linkkk </strong>  < a href = "https://twitter.com/sobercaptain"> let's follow each other in my twitter account </a> </p> </li>
 
  <li> <p> <strong> the 3rd link </strong> <a href = "https://www.instagram.com/sobercaptain/"> follow me too on instagram! </a> </p> </li>
- 
-<li>  <p> <strong> the 4th link </strong> < a href= "https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a> </p> </li>
+
+<li> <a href="https://www.facebook.com/MehNigguh"> let's be friends on facebook! </a> </p> </li>
 
 </ul>
 
