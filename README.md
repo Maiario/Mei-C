@@ -11,7 +11,7 @@
       
       h3{font-family:monospace;
       font-style:italic;
-       font-size:20px;}
+       font-size:15px:}
       
       </style>
       </head>
@@ -71,6 +71,8 @@
 <h3> and that's the reason why I created this storyyyy! this is my first college romance story, and I'm loving it! this is just my forte atm, I got influenced by the romance manhwa's, so I created this shit ;) </h3>
 
 <iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/234739622" ></iframe>
+
+<p> but anyways, I hope that you don't mind me cursing, it's my usual habit, and it has been a part of me, and it helps me a lot when it comes to relieving stress, and I believe that no one is innocent in this world, and just because someone love's to curse doesn't mean that they are a rotten person, so fuck it! :) </p> 
 
 
 
