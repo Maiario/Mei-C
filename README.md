@@ -1,4 +1,4 @@
-<h1> Welcome to my page!> 
+<h1> Welcome to my page! </h1>
   
   <p> I'll just put random content here, since I'm still new when it comes to programming, so this is my experimentation page. </p>
   
