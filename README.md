@@ -8,6 +8,8 @@
         p{font-family:monospace;
         font-style:italic;}
       
+      h3{font-family:monospace;
+      font-style:italic;}
       
       </style>
       </head>
@@ -58,8 +60,16 @@
 
 <iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/229140576" ></iframe> 
 
-<p> Brooooooooo, I checked this out in my facebook, and aaaaaaa I like how they also included the prologue of the story, that's so fucking cool bro! </p> 
-<p> anyways, this is BL story, and it's 18+ only, It has a lot of grammatical errors but f it, I'm still new when it comes to writing and my english words or tpying is not that that really perfect, but I'm trying to enchance it. T_T </p> 
+<p> Brooooooooo, I checked this out in my website, and aaaaaaa I like how they also included the prologue of the story, that's so fucking cool bro! </p> 
+
+<p> anyways, this is BL story, and it's 18+ only, It has a lot of grammatical errors but fuck it, I'm still new when it comes to writing and my english words or tpying is not that that really perfect, but trust me, I'm trying to enchance it. T_T </p> 
+
+<p>  <strong> I didn't like the development of the story, Chapter 5 above is the worst shit I have ever written, I didn't like the fact that I didn't make the protagonist into an intellectual person, I mean they didn't really make any stupid decisions or maybe they did, I just wished that I made the scene much more cooler, and also the two poor bois shouldn't have been kidnapped ( at this point, I don't know if my grammar is still okay but whatever, no one's gonna see this shit anyway) but the damage have been done, and I can't or maybe, I can actually do some edits but I'm too lazy to do it, so the story is on paused for now, cause I'm still sulking </strong> </p>
+
+<h3> and that's the reason why I created this storyyyy! this is my first college romance story, and I'm loving it! this is just my forti atm, I got influenced by the romance manhwa's, so I created this shit ;) </h3>
+
+<iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/234739622" ></iframe>
+
 
 
 
