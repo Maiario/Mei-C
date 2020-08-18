@@ -24,7 +24,7 @@
 
 <p> I wanted to put a video here, but ema just look up some toturial first. </p>
 
-<p> since this is experimentation website, I decided to put my youtube video content in here and my other social media accounts , since I don't know what to write. </p>
+<p> since this is a experimentation website, I decided to put my youtube video content in here and my other social media accounts , since I don't know what to write. </p>
 
 
 <ul> 
@@ -52,6 +52,11 @@
 
 <p> It did worked! hahaha I couldn't see the changes in my "preview" so I thought that It didn't worked, yey! I'll change the font and size of all the words in here to monospace! :) </p>
 
+<p> aight! the changes have been completed! I've change the font style into monospace and make a bit italic, the font size is still the same, andddd anyways, </p>
+
+<a href="https://www.wattpad.com/user/Maiario"> follow me also on my wattpad account, I've been writing stories in here since I got bored with my quarantine life cycle, so I hope that you'll check it! </a>
+
+<a href="<iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/229140576" ></iframe> </a>
 
 
 
