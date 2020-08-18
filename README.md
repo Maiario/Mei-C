@@ -72,10 +72,18 @@
 
 <iframe width="500" height="280" frameborder="0" allowfullscreen="" src="https://embed.wattpad.com/story/234739622" ></iframe>
 
-<p> but anyways, I hope that you don't mind me cursing, it's my usual habit, and it has been a part of me, and it helps me a lot when it comes to relieving stress, and I believe that no one is innocent in this world, and just because someone love's to curse doesn't mean that they are a rotten person, so fuck it! :) </p> 
+<p> <strong> but anyways, I hope that you don't mind me cursing, it's my usual habit, and it has been a part of me, and it helps me a lot when it comes to relieving stress, and I believe that no one is innocent in this world, and just because someone love's to curse doesn't mean that they are a rotten person, so fuck it! :) </strong> </p> 
 
 
+<p> and lastly if you want to learn programming, I highly recommend Khan Academy, it's the best website out there! and you won't pay for anything~ </p>
 
+<a href="https://www.khanacademy.org/"> KHAN ACADEMY! </a>
+
+<p> and do u know that app named duolingo? and if u don't, It's a language app, I've been using it for a while now, and it will help you learn a lot of different languages like japanese, korean, french, spanish, and etc! & it has a computer version, so click that link if <strong> you're interested! </strong> </p>
+
+<a href="https://www.duolingo.com/learn"> Duolingo! </a> 
+
+<p> thanks for reading all of this shits! - Mei </p> 
 
 
 
